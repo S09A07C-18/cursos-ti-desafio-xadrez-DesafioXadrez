@@ -47,4 +47,5 @@ int main(){                                                //Função que faz ao
           }
            printf("Direita\n");                       //imprime Direita uma vez após finalizar o for
 
-         }
+         } 
+        }
