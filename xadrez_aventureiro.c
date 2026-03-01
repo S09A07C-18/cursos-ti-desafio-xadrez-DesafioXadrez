@@ -37,7 +37,9 @@ int main(){                                                //Função que faz ao
 
       } while(numero3<=7) ;//se numero3 for menor ou igual a 0 ,repete a sequencia   
         
-      
+     
+      printf("\n \n") ;                             //faz um espaçamento
+
        
       while(Movimentocompleto--)                           //Decrementa em 1 o movimentocompleto e executa o for
       {
